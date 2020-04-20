@@ -157,7 +157,7 @@ class _GraphScreenState extends State<GraphScreen>
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
                         Text(
-                          "Graphical Represention of",
+                          "Graphical Representation of",
                           style: TextStyle(
                               color: Colors.black54,
                               fontSize: 16.0,
@@ -247,7 +247,7 @@ class _GraphScreenState extends State<GraphScreen>
                                 padding: EdgeInsets.only(
                                     right: 8.0, left: 8.0),
                                 child: Text(
-                                  "Pie Chart Represention",
+                                  "Pie Chart Representation",
                                   style: TextStyle(
                                     color: Colors.grey,
                                     fontSize: 12.0,
@@ -284,7 +284,7 @@ class _GraphScreenState extends State<GraphScreen>
                                 padding: EdgeInsets.only(
                                     right: 8.0, left: 8.0),
                                 child: Text(
-                                  "Bar Graph Represention",
+                                  "Bar Graph Representation",
                                   style: TextStyle(
                                     color: Colors.grey,
                                     fontSize: 12.0,
@@ -321,7 +321,7 @@ class _GraphScreenState extends State<GraphScreen>
                                 padding: EdgeInsets.only(
                                     right: 8.0, left: 8.0),
                                 child: Text(
-                                  "Sparkline Represention",
+                                  "Sparkline Representation",
                                   style: TextStyle(
                                     color: Colors.grey,
                                     fontSize: 12.0,
